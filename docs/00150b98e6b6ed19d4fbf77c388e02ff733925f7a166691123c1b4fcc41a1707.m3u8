@@ -4058,3 +4058,5 @@ https://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:0 tvg-name="viju+ Sport (576p)" tvg-logo="https://i.imgur.com/fXESG0l.png",viju+ Sport (576p)
 #EXTGRP:RUS
 http://stream.mcquack.net/333/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TÜRK",NOW TR
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1793953419&st=CotE3y6VvBrgLhsC2MrMGg
